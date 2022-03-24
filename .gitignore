@@ -172,6 +172,8 @@ asset-manifest.json
 /wp-content/vendor
 
 ### Themes ###
+!wp-content/themes/*
+
 
 ### Plugins ###
 ## plugin code should be included in the repos of non-Composer projects
