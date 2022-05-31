@@ -26,6 +26,7 @@ Twenty Twenty-Two is distributed under the terms of the GNU GPL.
 body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
+	background:red;
 }
 
 /*
@@ -145,4 +146,3 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	padding-right: var(--wp--custom--spacing--outer);
 	padding-left: var(--wp--custom--spacing--outer);
 }
-
